@@ -128,4 +128,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update: link is live and working
+
+
+Update:  21.07.2025 Internal navigation
